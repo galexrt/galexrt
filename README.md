@@ -20,11 +20,8 @@ I'm always working on improving my skills and diving deeper into **Kubernetes** 
 ### 🌱 Learning & Development
 I'm constantly further developing my existing skills and exploring new topics to stay at the cutting edge of **cloud-native infrastructure**.
 
-### 👥 Contributions
-I'm proud to be a **maintainer** of [Rook](https://github.com/rook/rook), a cloud-native storage orchestrator that simplifies storage in Kubernetes.
-
 ### 🎮 Fun Fact
-When I'm not working with Kubernetes and containers, I love to **play games** and contribute to the **Modern Gaming** community as an **infrastructure administrator**. Everything besides the gameservers themselves are running via containers in Kubernetes.
+When I'm not working with Kubernetes and containers, I love to **play games** (Steam Deck is great for travelling ❤️) and contribute to the **Modern Gaming** community as an **infrastructure administrator**. Everything besides the gameservers themselves are running via containers in Kubernetes.
 
 ### 📫 How to Reach Me
 Feel free to reach out to me via email at **[me@galexrt.moe](mailto:me@galexrt.moe)** for any questions, collaborations, or Kubernetes-related discussions.
