@@ -14,6 +14,8 @@ Some of the languages and technologies I have worked with.
 - **Languages**: Golang, Docker, YAML (K8S), Typescript, Shell scripting, whatever other language to get the job done 😉
 - **Technologies**: Docker, Kubernetes, Rook, Ceph, NATS, Protobuf & GRPC
 
+There's many many more technologies and tools that I have worked with, but these are the main ones.
+
 ### 🌟 Current Focus
 I'm always working on improving my skills and diving deeper into **Kubernetes** and container technologies. I'm continuously learning and pushing the boundaries of what's possible with these tools in small to large scale environments.
 
